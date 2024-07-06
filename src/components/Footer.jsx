@@ -10,7 +10,7 @@ const Footer = () => {
             </div>
             <div className='flex flex-col text-sm gap-2'>
                 <p>Contact</p>
-                <span className='text-gray-500'>+62811129929</span>
+                <span className='text-gray-500'>Hello, Adicondro</span>
             </div>
             <div className='flex flex-col text-sm gap-2'>
                 <p>Social</p>
