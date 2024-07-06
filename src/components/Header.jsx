@@ -14,13 +14,13 @@ const Header = () => {
             <div className='flex space-x-4'>
                 
                 <Link to="/">
-                    <Button className="text-xl" variant="ghost">
+                    <Button className="text-xl" variant="custom">
                         Home
                     </Button>
                 </Link>
                 <Link to="/about">
-                    <Button className="text-xl" variant="ghost">
-                        Works
+                    <Button className="text-xl" variant="custom">
+                        About
                     </Button>
                 </Link>
             </div>
