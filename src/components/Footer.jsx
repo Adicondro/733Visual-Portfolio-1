@@ -12,7 +12,7 @@ const Footer = () => {
                 <p>Contact</p>
                 <span className='text-gray-500'>+62811129929</span>
             </div>
-            <div className='flex flex-col text-sm gap-2'>
+            <div className='flex flex-col text-sm gap-4'>
                 <p>Social</p>
                 <span className='text-gray-500'>Linkedin, Email, Instagram</span>
             </div>
