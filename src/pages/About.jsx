@@ -9,17 +9,16 @@ const About = () => {
         Hey there,
         <br/>
         <br/>
-        I'm Aileen. I'm interested in designing meaningful experiences that shape how we interact with technology.
+        I'm Adicondro. I'm interested in designing meaningful experiences that shape how we interact with visual and technology.
         <br/>
         <br/>
-        I'm currently designing experiences to make Amazon a better place to discover and research products.
+        I'm currently study as an informatics student at Telkom University.
         <br/>
         <br/>
-        Previously, I studied Communication Design at BTK Berlin, where I wrote my thesis on the effects of biases in design. Before that, I worked with brands to create digital products at Edenspiekermann. I also helped improve Tumblr's posting experience on mobile and helped General Assembly launch a new online course.
-        I spend my time taking photos, drawing, and exploring places. Other times, I'm working on becoming a better speaker.
+        I am a creative individual with a deep passion for IT, visual, and productivity. I have a strong eye for visual, creating visually engaging works while showcasing skills in creative thinking, leadership, public speaking, and problem solving.
         <br/>
         <br/>
-        Let's chat — hello@aileen.co
+        Let's chat — adicondro.yusuf@gmail.com
       </AboutMe>
     </div>
   )
