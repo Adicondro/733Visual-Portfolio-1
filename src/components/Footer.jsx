@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 
 const Footer = () => {
   return (
@@ -14,7 +15,9 @@ const Footer = () => {
             </div>
             <div className='flex flex-col text-sm gap-2'>
                 <p>Social</p>
-                <span className='text-gray-500'>Linkedin, Email, Instagram</span>
+                <span className='text-gray-500'>
+                  <Link to={"https://linkedin.com/in/adicondro"}>Linkedin,</Link> <Link to={"https://mail.google.com/mail/u/0/#inbox?compose=new"}>Email</Link>, <Link to={"https://instagram.com/adicndro"}>Instagram</Link>
+                  </span>
             </div>
     </footer>
   )

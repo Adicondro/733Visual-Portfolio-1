@@ -1,5 +1,6 @@
 import AboutMe from '@/components/about/AboutMe'
 import React from 'react'
+import { Link } from 'react-router-dom'
 
 
 const About = () => {
@@ -18,7 +19,7 @@ const About = () => {
         I am a creative individual with a deep passion for IT, visual, and productivity. I have a strong eye for visual, creating visually engaging works while showcasing skills in creative thinking, leadership, public speaking, and problem solving.
         <br/>
         <br/>
-        Let's chat — adicondro.yusuf@gmail.com
+        Let's chat — <Link to={"https://mail.google.com/mail/u/0/#inbox?compose=new"}>adicondro.yusuf@gmail.com</Link>
       </AboutMe>
     </div>
   )
