@@ -1,11 +1,11 @@
 import React from 'react'
 
-const Homepage = () => {
+const Article = () => {
   return (
     <div className='px-32 leading-loose text-8xl'>
-        <h1>This page is under construction...</h1>
+        <h1>Coming Soon</h1>
     </div>
   )
 }
 
-export default Homepage
+export default Article
