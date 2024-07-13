@@ -38,7 +38,7 @@ const Header = () => {
                         About
                     </Button>
                 </Link>
-                <Link to="/about">
+                <Link to="/articles">
                     <Button className="text-xl" variant="custom">
                         Articles
                     </Button>
